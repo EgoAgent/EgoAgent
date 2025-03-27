@@ -1,0 +1,8 @@
+10-NN classifier result: Top1: 55.52, Top5: 76.16
+20-NN classifier result: Top1: 55.8, Top5: 78.14
+100-NN classifier result: Top1: 54.24, Top5: 80.72
+200-NN classifier result: Top1: 52.36, Top5: 79.96
+10-NN classifier result: Top1: 34.248, Top5: 50.34
+20-NN classifier result: Top1: 35.348, Top5: 53.298
+100-NN classifier result: Top1: 35.244, Top5: 57.18
+200-NN classifier result: Top1: 34.146, Top5: 57.178
